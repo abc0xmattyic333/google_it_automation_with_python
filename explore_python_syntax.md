@@ -120,3 +120,17 @@ If the implementation is hard to explain, it's a bad idea.
 
 If the implementation is easy to explain, it may be a good idea."
 ```
+
+Finally, it's helpful to bookmark the [Pep8StyleGuide](https://peps.python.org/pep-0008/) so you can reference it as needed!
+
+### Key Takeaways
+
+Syntax and semantics are what give form and meaning to a language, including Python. A large part of learning a new langauge is familiarizing yourself with its syntax and semantics. Much of this comes through exposure and practice, but there are few guiding principles and resources that can help you along the way. If you learn the rules about naming objects and build a bank of resources that you can reference for guidance, you'll surely make progress as a Python learner. As you get more familiar with Python, you'll be able to communicate more efficiently with computers and do more with data analysis tools.
+
+[Reference Library](https://docs.python.org/3/library/)
+
+[Built-In Data Types](https://docs.python.org/3/library/stdtypes.html)
+
+[Built-In Functions](https://docs.python.org/3/library/functions.html#built-in-functions)
+
+[Python Operators](https://python-reference.readthedocs.io/en/latest/docs/operators/index.html)
